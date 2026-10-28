@@ -42,7 +42,7 @@ Redirect 301 /o-que-e-ensino-a-distancia/ /sobre/
 Redirect 301 /inscreva-se/ /contato/
 Redirect 301 /inscreva-se/obrigado/ /contato/
 Redirect 301 /contato/obrigado/ /contato/
-Redirect 301 /area-do-aluno/ https://infinitus.curso.study/metodo/login.php
+Redirect 301 /area-do-aluno/ https://infinitus-portal-aluno.softwaregeo.com.br/Login/Aluno
 Redirect 301 /certificacao/fap-faculdade-parana-cambe/ /sobre/
 Redirect 301 /certificacao/faep-faculdade-de-educacao-paulistana/ /sobre/
 
